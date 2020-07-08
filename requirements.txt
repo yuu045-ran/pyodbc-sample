@@ -1,0 +1,3 @@
+azure-functions
+sqlalchemy==1.3.18
+pyodbc==4.0.26
